@@ -1,0 +1,10 @@
+{
+  "path-intellisense.mappings": {
+    "@": "${workspaceRoot}/src"
+  },
+  "editor.formatOnSave": false,
+  "stylelint.autoFixOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}

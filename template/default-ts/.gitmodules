@@ -1,0 +1,9 @@
+[submodule "src/basic"]
+	path = src/basic
+	url = http://git.sadais.com:8080/r/html/basic.git
+[submodule "src/PiUI-basic"]
+	path = src/PiUI-basic
+	url = http://git.sadais.com:8080/r/html/PiUI-basic.git
+[submodule "src/plugins/mescroll"]
+	path = src/plugins/mescroll
+	url = https://github.com/mescroll/mescroll.git

@@ -1,0 +1,24 @@
+{
+  "pages": [
+    // pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+    {
+      "path": "src/pages/index/index",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    }
+  ],
+  "subPackages": [
+    {
+      "root": "src/pages/common/pages",
+      "pages": []
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF",
+    "navigationStyle": "custom"
+  }
+}
