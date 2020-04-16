@@ -1,2 +1,2 @@
 # uniapp-preset
-uniapp 模板
+uniapp 预设
